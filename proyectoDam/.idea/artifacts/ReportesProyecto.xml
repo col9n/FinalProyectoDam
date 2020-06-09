@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReportesProyecto">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReportesProyecto</output-path>
+    <root id="archive" name="ReportesProyecto.jar">
+      <element id="module-output" name="InformeJasperProyecto" />
+    </root>
+  </artifact>
+</component>

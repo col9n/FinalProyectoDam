@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="450.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proyecto.controllers.usuarios.AddUsuarioController">
+   <children>
+      <Label layoutX="46.0" layoutY="38.0" prefHeight="17.0" prefWidth="253.0" text="Nombre del empleado" AnchorPane.leftAnchor="0.0" />
+      <TextField fx:id="nombreEmpleado" layoutX="30.0" layoutY="66.0" prefHeight="25.0" prefWidth="253.0" AnchorPane.leftAnchor="0.0" />
+      <Label layoutX="239.0" layoutY="280.0" prefHeight="17.0" prefWidth="323.0" text="Centro del usuario" />
+      <Button fx:id="guardarProducto" layoutX="239.0" layoutY="366.0" mnemonicParsing="false" onAction="#guardarUsuario" text="Guardar" />
+      <Button fx:id="limpiarProducto" layoutX="506.0" layoutY="366.0" mnemonicParsing="false" onAction="#limpiarAddUsuario" text="Limpiar" />
+      <ComboBox fx:id="centroEmpleado" layoutX="239.0" layoutY="309.0" prefHeight="25.0" prefWidth="323.0" />
+      <Label layoutX="30.0" layoutY="118.0" prefHeight="17.0" prefWidth="246.0" text="Primer apellido" AnchorPane.leftAnchor="0.0" />
+      <TextField fx:id="primerApellido" layoutX="30.0" layoutY="159.0" prefHeight="25.0" prefWidth="253.0" AnchorPane.leftAnchor="0.0" />
+      <Label layoutX="463.0" layoutY="118.0" prefHeight="17.0" prefWidth="253.0" text="Segundo apellido" />
+      <TextField fx:id="segundoApellido" layoutX="463.0" layoutY="159.0" prefHeight="25.0" prefWidth="253.0" />
+      <Label layoutX="463.0" layoutY="38.0" prefHeight="17.0" prefWidth="253.0" text="Nombre usuario" />
+      <TextField fx:id="userEmpleado" layoutX="463.0" layoutY="66.0" prefHeight="25.0" prefWidth="253.0" />
+      <PasswordField fx:id="pass" layoutX="30.0" layoutY="245.0" prefHeight="25.0" prefWidth="253.0" AnchorPane.leftAnchor="0.0" />
+      <PasswordField fx:id="passRep" layoutX="463.0" layoutY="245.0" prefHeight="25.0" prefWidth="253.0" />
+      <Label layoutX="38.0" layoutY="217.0" prefHeight="17.0" prefWidth="253.0" text="Contraseña" AnchorPane.leftAnchor="0.0" />
+      <Label layoutX="463.0" layoutY="217.0" prefHeight="17.0" prefWidth="253.0" text="Repetir contraseña" />
+   </children>
+   <padding>
+      <Insets left="30.0" right="15.0" />
+   </padding>
+</AnchorPane>

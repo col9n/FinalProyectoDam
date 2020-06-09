@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="proyectoDam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/proyectoDam_jar</output-path>
+    <root id="root">
+      <element id="archive" name="proyectoDam.jar">
+        <element id="module-output" name="proyectoDam" />
+      </element>
+      <element id="library" level="project" name="controlsfx-8.40.11" />
+      <element id="library" level="project" name="net.sf.jasperreports:jasperreports:6.11.0" />
+      <element id="library" level="project" name="javafx-swt" />
+      <element id="library" level="project" name="mysql:mysql-connector-java:5.1.48" />
+    </root>
+  </artifact>
+</component>

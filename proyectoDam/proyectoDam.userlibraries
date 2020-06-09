@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="controlsfx-8.40.11">
+    <archive path="C:/Users/col9n/Downloads/controlsfx-8.40.11.jar" />
+  </library>
+  <library name="javafx-swt">
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx-swt.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.base.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.controls.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.graphics.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.media.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.swing.jar" />
+    <archive path="C:/Users/col9n/Desktop/di/javafx-sdk-13/lib/javafx.web.jar" />
+  </library>
+  <library name="mysql:mysql-connector-java:5.1.48">
+    <archive path="C:/Users/col9n/.m2/repository/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar" />
+  </library>
+  <library name="net.sf.jasperreports:jasperreports:6.11.0">
+    <archive path="C:/Users/col9n/.m2/repository/net/sf/jasperreports/jasperreports/6.11.0/jasperreports-6.11.0.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/commons-digester/commons-digester/2.1/commons-digester-2.1.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/com/lowagie/itext/2.1.7.js7/itext-2.1.7.js7.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.62/bcprov-jdk15on-1.62.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/codehaus/castor/castor-xml/1.4.1/castor-xml-1.4.1.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/codehaus/castor/castor-core/1.4.1/castor-core-1.4.1.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar" />
+    <archive path="C:/Users/col9n/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.0/jackson-annotations-2.10.0.jar" />
+  </library>
+  <library name="com.google.code.gson:gson:2.8.6">
+    <archive path="C:/Users/col9n/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" />
+  </library>
+  <library name="javafx-swt">
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx-swt.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.base.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.controls.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.graphics.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.media.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.swing.jar" />
+    <archive path="C:/Users/col9n/Downloads/javafx-sdk-13/lib/javafx.web.jar" />
+  </library>
+</eclipse-userlibraries>
+

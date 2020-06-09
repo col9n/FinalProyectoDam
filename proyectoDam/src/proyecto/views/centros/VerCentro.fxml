@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="450.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="proyecto.controllers.centros.VerCentroController">
+   <children>
+      <TableView fx:id="tableViewCentro" editable="true" prefHeight="333.0" prefWidth="600.0" AnchorPane.bottomAnchor="70.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <columns>
+            <TableColumn fx:id="idColum" prefWidth="75.0" text="ID centro">
+               <cellValueFactory>
+                  <PropertyValueFactory property="id_centro" />
+               </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="dirreccionColum" prefWidth="75.0" text="Direccion">
+               <cellValueFactory>
+                  <PropertyValueFactory property="direccion" />
+               </cellValueFactory>
+            </TableColumn>
+         </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <Label layoutX="14.0" layoutY="401.0" text="Filtrar por" AnchorPane.bottomAnchor="24.0" AnchorPane.leftAnchor="0.0" />
+      <ComboBox fx:id="combobox" layoutX="100.0" layoutY="401.0" prefWidth="150.0" value="Todo" AnchorPane.bottomAnchor="24.0">
+         <items>
+            <FXCollections fx:factory="observableArrayList">
+               <String fx:value="Todo" />
+               <String fx:value="ID centro" />
+               <String fx:value="Direccion" />
+            </FXCollections>
+         </items>
+      </ComboBox>
+      <TextField fx:id="textCentro" layoutX="270.0" layoutY="405.0" prefHeight="25.0" prefWidth="294.0" AnchorPane.bottomAnchor="24.0" />
+   </children>
+   <padding>
+      <Insets left="30.0" right="15.0" />
+   </padding>
+</AnchorPane>

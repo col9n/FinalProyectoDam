@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="proyecto.util.Util" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/util/Util.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="550" x="-23" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="proyecto.modelos.traspasos.OrdenesImprimir" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/traspasos/OrdenesImprimir.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="252" x="3993" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="proyecto.controllers.proveedores.EliProveedroController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/proveedores/EliProveedroController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="326" x="4015" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="proyecto.controllers.productos.VerProductoController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/productos/VerProductoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="282" x="567" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="proyecto.controllers.proveedores.VerProveedroController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/proveedores/VerProveedroController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="290" x="889" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="proyecto.controllers.productos.AddProductoController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/productos/AddProductoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="232" x="1219" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="proyecto.controllers.ConfiguracionController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/ConfiguracionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="197" x="1491" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="proyecto.controllers.productos.ModProductoController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/productos/ModProductoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="282" x="5370" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="proyecto.controllers.LoginController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/LoginController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="181" x="1728" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="proyecto.controllers.centros.VerCentroController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/centros/VerCentroController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="271" x="1949" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="proyecto.Logica.Logica" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/Logica/Logica.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="164" x="5692" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="proyecto.controllers.traspasos.EliTraspasosController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/traspasos/EliTraspasosController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="318" x="6025" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="proyecto.controllers.traspasos.VerTraspasosController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/traspasos/VerTraspasosController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="282" x="2260" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="proyecto.modelos.traspasos.Ordenes" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/traspasos/Ordenes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="246" x="6383" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="proyecto.modelos.stock.Stock" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/stock/Stock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="142" x="6669" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="proyecto.controllers.usuarios.VerUsuarioController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/usuarios/VerUsuarioController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="276" x="2582" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="proyecto.modelos.Usuario" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/Usuario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="220" x="5432" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="proyecto.modelos.productos.Producto" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/productos/Producto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="186" x="5206" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="proyecto.Main" project="proyectoDam" file="/proyectoDam/src/proyecto/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="113" x="2898" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="proyecto.controllers.proveedores.ModProveedorController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/proveedores/ModProveedorController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="290" x="5040" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="proyecto.controllers.stock.ModStockController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/stock/ModStockController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="243" x="6669" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="proyecto.controllers.centros.AddCentroController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/centros/AddCentroController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="197" x="3051" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="proyecto.controllers.stock.VerStockController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/stock/VerStockController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="243" x="3288" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="proyecto.modelos.proveedores.Proveedor" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/proveedores/Proveedor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="201" x="4965" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="proyecto.controllers.proveedores.AddProveedroController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/proveedores/AddProveedroController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="197" x="3571" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="proyecto.modelos.productos.ProductoImprimir" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/productos/ProductoImprimir.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="186" x="4739" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="proyecto.modelos.Centro" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/Centro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="145" x="3808" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="proyecto.Logica.Database" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/Logica/Database.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="801" width="350" x="5692" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="proyecto.modelos.traspasos.OrdenesEliminar" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/traspasos/OrdenesEliminar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="351" x="6082" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="proyecto.modelos.proveedores.ProveedorEliminar" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/proveedores/ProveedorEliminar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="276" x="4483" y="1767"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="31" language="java" name="proyecto.modelos.EstadoOrden" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/EstadoOrden.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="156" x="6473" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="32" language="java" name="proyecto.controllers.traspasos.AddTraspasosController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/traspasos/AddTraspasosController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="233" x="4285" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="proyecto.controllers.productos.EliProductoController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/productos/EliProductoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="318" x="4381" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="proyecto.controllers.usuarios.AddUsuarioController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/usuarios/AddUsuarioController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="205" x="4558" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="proyecto.modelos.productos.ProductoEliminar" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/modelos/productos/ProductoEliminar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="252" x="4799" y="1767"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="proyecto.controllers.PrincipalController" project="proyectoDam" 
+    file="/proyectoDam/src/proyecto/controllers/PrincipalController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="999" width="197" x="4803" y="-113"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="37">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="38" name="listaActualizar"/>      
+      <multiplicity id="39" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="41" name="estado"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <association id="44">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="45" name="usuario"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="48">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="49" name="INSTANCE"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="52" name="listaBorrar"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="55" name="listaBorrar"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="58" name="listaActualizar"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="61" name="listaActualizar"/>      
+      <multiplicity id="62" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="64" name="listaProductos"/>      
+      <multiplicity id="65" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="66">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="67">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="68" name="database"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="71" name="listaRecibir"/>      
+      <multiplicity id="72" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

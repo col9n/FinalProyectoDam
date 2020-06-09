@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx-swt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql:mysql-connector-java:5.1.48"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/controlsfx-8.40.11"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/net.sf.jasperreports:jasperreports:6.11.0"/>
+	<classpathentry kind="output" path="out/production/proyectoDam"/>
+</classpath>
