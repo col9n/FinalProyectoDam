@@ -35,11 +35,11 @@ public class Database {
 
 
   private static final String DB_DRIVER = "com.mysql.cj.jdbc.Driver";
- // private static  String DB_CONNECTION = "jdbc:mysql://ec2-100-27-27-249.compute-1.amazonaws.com:3306/proyectodam?autoReconnect=true&useSSL=false";
-  private static  String DB_CONNECTION = "jdbc:mysql://localhost/proyectodam?autoReconnect=true&useSSL=false";
+  private static  String DB_CONNECTION = "jdbc:mysql://ec2-3-86-143-17.compute-1.amazonaws.com:3306/proyectodam?autoReconnect=true&useSSL=false";
+  //private static  String DB_CONNECTION = "jdbc:mysql://localhost/proyectodam?autoReconnect=true&useSSL=false";
   private static  String DB_USER = "root";
-  //private static  String DB_PASSWORD = "mypass123";
-  private static  String DB_PASSWORD = "root";
+  private static  String DB_PASSWORD = "mypass123";
+ //private static  String DB_PASSWORD = "root";
 
   public Database() {
 
